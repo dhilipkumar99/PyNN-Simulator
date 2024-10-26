@@ -2,3 +2,4 @@ streamlit
 pyNN
 matplotlib
 numpy
+neuron
