@@ -1,5 +1,5 @@
 streamlit
+neuron
 pyNN
 matplotlib
 numpy
-neuron
