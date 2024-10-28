@@ -1,6 +1,0 @@
-streamlit
-neuron==8.2.0
-pyNN==0.9.6
-matplotlib
-numpy
-
