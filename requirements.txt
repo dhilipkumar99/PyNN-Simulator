@@ -1,0 +1,5 @@
+streamlit
+pyNN
+neuron
+matplotlib
+numpy
